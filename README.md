@@ -1,8 +1,5 @@
-image url
-# Example with Copy Button
+#Image url
 
-This is an example of a code snippet with a copy button:
-
-```txt
+#```txt
 https://raw.githubusercontent.com/Ron015/image/main/
 ```
